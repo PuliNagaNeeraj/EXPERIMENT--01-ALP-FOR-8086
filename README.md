@@ -124,8 +124,7 @@ HLT
 
 
 ## Result :
-Thus the code is executed successfully.
- 
+Thus, ALP for fundamental arithmetic and logical operations are executed successfully. 
 
 
 
