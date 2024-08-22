@@ -1,9 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name : PULI NAGA NEERAJ
+
 Roll no : 212223240130
-Date of experiment : 
 
-
+Date of experiment : 22-08-2024
 
 
 
@@ -86,7 +86,7 @@ ADD AL,BL
 HLT
 ```
 ## Output  
-![image](https://github.com/user-attachments/assets/24b15817-c567-4871-9419-d6b3391582b1)
+![image](https://github.com/user-attachments/assets/be1ee9dc-06c5-4e30-88e3-79664536ad60)
 
 ## Subtraction   of 8 bit numbers  ALP 
  ```
