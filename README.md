@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name : PULI NAGA NEERAJ
+Roll no : 212223240130
+Date of experiment : 
 
 
 
@@ -97,6 +97,7 @@ SUB AL,BL
 HLT
 ```
 ## Output  
+![image](https://github.com/user-attachments/assets/7916a50b-bfe0-4c1d-8703-8cb58d07fb7b)
 
 ## Multiplication alp 
 ```
